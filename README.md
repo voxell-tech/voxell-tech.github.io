@@ -1,3 +1,3 @@
-# voxell-tech.github.io
-Voxell website.
+# Voxell Technologies
+Welcome to Voxell Technologies website!
 Site under development.
